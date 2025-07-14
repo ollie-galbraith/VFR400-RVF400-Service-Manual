@@ -4,11 +4,11 @@
 
 ## Torque Specs
 
-| **Location**                                  | **NM** | **Ft/lb** | **Page No.** |
-|-----------------------------------------------|--------|-----------|--------------|
+| **Location**                                  | **NM** | **Ft/lb** | **Page No.** | **Note** |
+|-----------------------------------------------|--------|-----------|--------------|----------|
 | ***Engine***                                  |        |           |              |
 | *Lubrication*                                 |        |           |              |
-| Oil pump driven sprocket bolt                 | 15     | 11        | [Page 110](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=110) |
+| Oil pump driven sprocket bolt                 | 15     | 11        | [Page 110]([github_raw]#page=110) |
 | Oil pump mounting bolt                        | 12     | 9         |              |
 | Oil pump cover bolt                           | 12     | 9         |              |
 | Oil filter                                    | 10     | 7         |              |
@@ -113,3 +113,5 @@
 | Rear brake hose joint nut (hose side)         | 14     | 10        |              |
 | Rear brake hose joint nut (caliper side)      | 35     | 25        |              |
 | Rear brake disc nut                           | 35     | 25        |              |
+
+[github-raw]: https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf
