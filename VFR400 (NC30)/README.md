@@ -1,8 +1,14 @@
+# Honda VFR400 NC30
+
+[Service Manual](./NC30_Service_Manual.pdf)
+
+## Torque Specs
+
 | **Location**                                  | **NM** | **Ft/lb** | **Page No.** |
 |-----------------------------------------------|--------|-----------|--------------|
 | ***Engine***                                  |        |           |              |
 | *Lubrication*                                 |        |           |              |
-| Oil pump driven sprocket bolt                 | 15     | 11        |              |
+| Oil pump driven sprocket bolt                 | 15     | 11        | [Page 110](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=110) |
 | Oil pump mounting bolt                        | 12     | 9         |              |
 | Oil pump cover bolt                           | 12     | 9         |              |
 | Oil filter                                    | 10     | 7         |              |
