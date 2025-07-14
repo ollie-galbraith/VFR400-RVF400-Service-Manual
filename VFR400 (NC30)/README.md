@@ -8,7 +8,7 @@
 |-----------------------------------------------|--------|-----------|--------------|----------|
 | ***Engine***                                  |        |           |              |
 | *Lubrication*                                 |        |           |              |
-| Oil pump driven sprocket bolt                 | 15     | 11        | [Page 110][github_raw] |
+| Oil pump driven sprocket bolt                 | 15     | 11        | [Page 110][github-raw] |
 | Oil pump mounting bolt                        | 12     | 9         |              |
 | Oil pump cover bolt                           | 12     | 9         |              |
 | Oil filter                                    | 10     | 7         |              |
