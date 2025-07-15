@@ -1,13 +1,29 @@
 # Honda VFR400 NC30
 
-[Service Manual](./NC30_Service_Manual.pdf)
+[Full Service Manual PDF](./NC30_Service_Manual.pdf)
+
+### Table of contents
+- [Torque Specs](#torque-specs)
+    - [Lubrication](#lubrication)
+    - [Fuel System](#fuel-system)
+    - [Cooling System](#cooling-system)
+    - [Cylinder Head/Cylinder/Piston](#cylinder-headcylinderpiston)
+    - [Clutch/Gear Linkage](#clutchgear-linkage)
+    - [Crankcase/Crankshaft/Transmission](#crankcasecrankshafttransmission)
+    - [Alternator](#alternator)
+    - [Frame/body panels](#framebody-panels)
+    - [Exhaust system](#exhaust-system)
+    - [Engine Mount](#engine-mount)
+    - [Front Suspension](#front-suspension)
+    - [Rear Suspension](#rear-suspension)
+    - [Brake/Clutch System](#brakeclutch-system)
 
 ## Torque Specs
 
 [Link to table in PDF](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=18)
 
-
-| **Lubrication**                               | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
+### Lubrication
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | Oil pump driven sprocket bolt                 | 15     | 11        | [Page 110](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=110) | Apply locking agent to the threads. |
 | Oil pump mounting bolt                        | 12     | 9         | [Page 57](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=57)   |                                     |
@@ -15,22 +31,24 @@
 | Oil filter                                    | 10     | 7         | [Page 57](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=57)   | Apply clean engine oil to o-ring.   |
 | Oil drain bolt                                | 38     | 27        | [Page 44](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=44)   |                                     |
 
-| **Fuel System**                               | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
+### Fuel System
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Carburetor insulator band screw               | 1      | 0.7       | [Page 77](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=77)   |           |
 | Breather tube joint                           | 11     | 8         | [Page 72](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=72)   |           |
 | Fuel tank breater check valve                 | 11     | 8         | [Page 33](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=33)   |           |
 | Fuel valve                                    | 23     | 17        | [Page 33](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=33)   |           |
 
-| **Cooling System**                            | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                     |
+### Cooling System
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                     |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | Water pump mounting bolt                      | 10     | 7         | [Page 64](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=64)   |                               |
 | Water pump cover bolt                         | 10     | 7         | [Page 65](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=65)   | Apply sealant to the threads. |
 | Thermo sensor                                 | 10     | 7         | [Page 65](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=65)   | Apply sealant to the threads. |
 | Fan motor switch                              | 18     | 13        | [Page 68](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=68)   |                               |
 
-
-| **Cylinder Head/Cylinder/Piston**             | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                    |
+### Cylinder Head/Cylinder/Piston
+| **item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                    |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | Cam gear case mounting bolt                   | 36     | 26        | [Page 99](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=99)   | Apply oil to the threads and flange surface. |
 | Cam gear case set bolt                        | 12     | 9         | [Page 99](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=99)   | Apply oil to the threads and flange surface. |
@@ -40,7 +58,8 @@
 | Cylinder head bolt (6mm)                      | 12     | 9         | [Page 99](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=99)   |                                              |
 | Spark plug                                    | 9      | 7         | [Page 46](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=46)   |                                              |
 
-| **Clutch/Gear Linkage**                       | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                                         |
+### Clutch/Gear Linkage
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                                         |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | Right crankcase cover                         | 10     | 7         | [Page 107](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=107) |                                                                   |
 | Clutch locknut                                | 85     | 61        | [Page 112](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=112) | Stake.                                                            |
@@ -49,7 +68,8 @@
 | Shift fork shaft set bolt                     | 12     | 9         | [Page 118](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=118) | Apply locking agent to the threads.                               |
 | Timing hole cap                               | 18     | 13        | [Page 196](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=196) | Apply molybdenum disulfide oil to the threads and flange surface. |
 
-| **Crankcase/Crankshaft/Transmission**         | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                                                          |
+### Crankcase/Crankshaft/Transmission
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                                                          |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | Drive sprocket bolt                           | 55     | 40        | [Page 88](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=88)   |                                                                                    |
 | Connecting rod bearing cap nut                | 24     | 17        | [Page 131](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=131) | Apply oil to the threads and flange surface. Never apply molybdenum disulfide oil. |
@@ -58,16 +78,19 @@
 | Crankcase bolt (10mm)                         | 40     | 29        | [Page 131](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=131) |                                                                                    |
 | Lower case oil bolt                           | 23     | 17        | [Page 131](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=131) |                                                                                    |
 
-| **Alternator**                                | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
+### Alternator
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | Flywheel bolt                                 | 85     | 61        | [Page 189](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=189) | Apply locking agent to the threads. |
 
-| **Starter Clutch**                            | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
+### Starter Clutch
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Primary drive gear bolt (starter clutch bolt) | 85     | 61        | [Page 202](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=292) |           |
 | Starter clutch cover bolt                     | 28     | 20        | [Page 204](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=204) |           |
 
-| **Frame/body panels**                         | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
+### Frame/body panels
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | Main step holder bolt                         | 27     | 20        |                                                                                                                                           |                                     |
 | Main step bolt                                | 45     | 33        | [Page 181](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=181) |                                     |
@@ -76,11 +99,13 @@
 | Side stand pivot bolt                         | 38     | 27        | [Page 53](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=53)   |                                     |
 | Side stand bracket bolt                       | 35     | 25        | [Page 53](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=53)   | Apply locking agent to the threads. |
 
-| **Exhaust system**                            | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
+### Exhaust system
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Exhaust pipe joint nut                        | 8      | 6         | [Page 38](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=38)   |           |
 
-| **Engine Mount**                              | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
+### Engine Mount
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes** |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Engine mounting bolt                          | 40     | 29        | [Page 88](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=88)   |           |
 | Engine mounting adjust bolt                   | 11     | 8         | [Page 88](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=88)   |           |
@@ -88,7 +113,8 @@
 | Engine mounting nut                           | 40     | 29        | [Page 88](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=88)   |           |
 | Gearshift pedal bolt                          | 12     | 9         | [Page 88](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=88)   |           |
 
-| **Front Suspension**                          | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                    |
+### Front Suspension
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                                    |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | Handlebar holder pinch bolt                   | 12     | 9         | [Page 134](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=134) |                                              |
 | Ignition switch mounting bolt                 | 25     | 18        | [Page 213](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=213) | Apply locking agent to the threads.          |
@@ -101,7 +127,8 @@
 | Front axle pinch bolt                         | 22     | 16        | [Page 138](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=138) |                                              |
 | Front axle bolt                               | 60     | 43        | [Page 138](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=138) |                                              |
 
-| **Rear Suspension**                           | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
+### Rear Suspension
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | Rear wheel nut                                | 120    | 87        | [Page 151](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=151) |                                     |
 | Rear axle holder lock nut                     | 165    | 119       | [Page 153](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=153) | Stake.                              |
@@ -118,7 +145,8 @@
 | Rear bearing holder pinch bolt                | 55     | 40        | [Page 153](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=153) |                                     |
 | Drive pin bolt                                | 15     | 11        | [Page 155](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=155) | Apply locking agent to the threads. |
 
-| **Brake/Clutch System**                       | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
+### Brake/Clutch System
+| **Item**                                      | **NM** | **Ft/lb** | **Page No.**                                                                                                                              | **Notes**                           |
 |-----------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | Master cylinder mounting bolt                 | 12     | 9         | [Page 177](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=177) |                                     |
 | Master cylinder oil bolt                      | 35     | 25        | [Page 173](https://raw.githubusercontent.com/ollie-galbraith/RVF400-Service-Manual/main/VFR400%20(NC30)/NC30_Service_Manual.pdf#page=173) |                                     |
